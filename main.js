@@ -6,7 +6,7 @@ class Book {
   }
 }
 
-class Lib {
+class Libray {
   constructor() {
     this.books = [];
   }
